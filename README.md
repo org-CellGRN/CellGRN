@@ -26,7 +26,7 @@ If you have not installed the Python dependencies above, we recommend using cond
 1. Clone this repository.
 
 ```Bash
-git clone https://github.com/DELTA-TJ-submission/CellGRN
+git clone https://github.com/org-CellGRN/CellGRN
 cd CellGRN
 ```
 
